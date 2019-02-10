@@ -6,8 +6,8 @@
   
   <distributionManagement>
     <repository>
-        <id>MyNexusRepoSnap</id>
-        <name>MyNexusRepoSnap</name>
+        <id>MyNexusProject</id>
+        <name>MyNexusProject</name>
         <url>http://localhost:8081/repository/MyNexusRepoSnap/</url>
     </repository>
 </distributionManagement> 
